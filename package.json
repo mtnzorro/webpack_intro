@@ -1,0 +1,16 @@
+{
+  "name": "webpack-academy-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "watch" : "webpack --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.2.0"
+  }
+}
